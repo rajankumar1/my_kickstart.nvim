@@ -57,7 +57,7 @@ fork to your machine using one of the commands below, depending on your OS.
 
 > **NOTE**
 > Your fork's URL will be something like this:
-> `https://github.com/<your_github_username>/kickstart.nvim.git`
+> `https://github.com/rajankumar1/my_kickstart.nvim.git`
 
 You likely want to remove `lazy-lock.json` from your fork's `.gitignore` file
 too - it's ignored in the kickstart repo to make maintenance easier, but it's
@@ -81,7 +81,7 @@ git clone https://github.com/nvim-lua/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HO
 If you're using `cmd.exe`:
 
 ```
-git clone https://github.com/nvim-lua/kickstart.nvim.git "%localappdata%\nvim"
+git clone https://github.com/rajankumar1/my_kickstart.nvim.git "%localappdata%\nvim"
 ```
 
 If you're using `powershell.exe`
