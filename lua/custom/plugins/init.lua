@@ -2,4 +2,6 @@
 --  I promise not to create any merge conflicts in this directory :)
 --
 -- See the kickstart.nvim README for more information
-return {}
+return {
+  -- This is just a test. I will add more stuffs below later.
+}
